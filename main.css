@@ -1,0 +1,40 @@
+body {
+  background-image: url("http://www.jmdtutor.com/wallpapers/NatureWallpapers/big/Nature_Wallpaper24.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+button.zipLocation{
+  background-color: rgba(70, 213, 201, 0.7);
+  border-radius: 5px;
+  border: solid 3px rgba(70, 213, 201, .3)
+}
+
+button.geoLocation{
+  background-color: rgba(96, 60, 33, 0.7);
+  border-radius: 5px;
+  color: white;
+  border: solid 3px rgba(203, 142, 94, .3);
+}
+
+h1 {
+  color: white;
+}
+header{
+  margin: auto;
+  color: white;
+  width: 80%;
+  text-align: center;
+  padding: 30px;
+}
+table {
+  width: 60%;
+  text-align: center;
+  margin: auto;
+}
+td {
+  border-radius: 15px;
+  background-color: rgba(73, 115, 199, 0.6);
+  border: solid 5px rgba(73, 115, 199, 0.3);
+  color: white;
+  padding: 20px;
+}
